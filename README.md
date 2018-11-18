@@ -1,6 +1,6 @@
 # [Vue Black Dashboard PRO](https://www.creative-tim.com/product/vue-black-dashboard-pro) [![version][version-badge]][CHANGELOG]
 
-![alt text](![alt text](https://s3.amazonaws.com/creativetim_bucket/products/99/original/opt_bd_vue_thumbnail.jpg?1539595932))
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/99/original/opt_bd_vue_thumbnail.jpg?1539595932)
 
 **[Vue Black Dashboard PRO](https://www.creative-tim.com/product/vue-black-dashboard-pro)** is a beautiful Bootstrap 4 and Vue.js Admin Dashboard that comes in 2 versions: Dark and Light Mode. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
