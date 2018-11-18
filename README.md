@@ -1,45 +1,74 @@
-# [Vue Black Dashboard PRO](https://www.creative-tim.com/product/vue-black-dashboard-pro) [![version][version-badge]][CHANGELOG]
+# [Vue Black Dashboard PRO](https://demos.creative-tim.com/paper-dashboard-pro-react/#/dashboard)
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/99/original/opt_bd_vue_thumbnail.jpg?1539595932)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed)  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-**[Vue Black Dashboard PRO](https://www.creative-tim.com/product/vue-black-dashboard-pro)** is a beautiful Bootstrap 4 and Vue.js Admin Dashboard that comes in 2 versions: Dark and Light Mode. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+![Product Gif](./github-assets/paper-dashboard-pro-react.gif)
 
-Vue Black Dashboard Pro is the Vue.js ported version of the [Original Black Dashboard Pro](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/).
+**[Vue Black Dashboard PRO](https://demos.creative-tim.com/vue-black-dashboard-pro)** is a beautiful Bootstrap 4 Admin Dashboard that comes in 2 versions: Dark and Light Mode. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
-Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vue](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
-Vue Black Dashboard PRO was coded by [BinarCode](https://binarcode.com) and the design was made by [Creative Tim](https://www.creative-tim.com/).
+We made it our priority to not add things that you don't need, so the Vue Black Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used. Inside the archive, you will also find multiple example pages to get you started or provide inspiration.
 
-The product represents a big suite of front-end developer tools that can help you jump start your project. We have created it thinking about things you actually need in a dashboard. Vue Black Dashboard PRO contains handpicked and optimised Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on Creative Tim is a customisation of this product.
 
-We like consistency and design that blends into its purpose.
-Vue Black Dashboard PRO is a perfect example of our most thoughtful work. It combines Vue.js components and plugins, while looking like everything fits together.
-For an easy start or inspiration for you project, we have also create a set of example pages, like the user settings or usage graphics.
+**[Vue Black Dashboard PRO](https://demos.creative-tim.com/vue-black-dashboard-pro)** is the extended version of [Black Dashboard PRO](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/). Based on feedback from people that downloaded and used it, we have added needed components, and we have created multiple examples pages. We are curious to see how you want to use it and also improve it, so let us know any feedback you have.
 
+**Bootstrap 4 support**
+
+
+Vue Black Dashboard PRO is built on top of [Bootstrap 4](http://getbootstrap.com/) and [Vue.js](https://vuejs.org/) Most of the elements from the dashboard are re-designed to resemble popular dark themes such as Mac OS Mojave Dark mode.
 Let us know what you think and what we can improve below. And good luck with development!
 
-## Links:
+View example pages [here](https://demos.creative-tim.com/vue-black-dashboard-pro).
 
-+ [Live Preview](http://demos.creative-tim.com/vue-black-dashboard-pro)
+## Table of Contents
 
-## Quick Start:
+* [Versions](#versions)
+* [Demo](#demo)
+* [Quick Start](#quick-start)
+* [Documentation](#documentation)
+* [File Structure](#file-structure)
+* [Browser Support](#browser-support)
+* [Resources](#resources)
+* [Reporting Issues](#reporting-issues)
+* [Technical Support or Questions](#technical-support-or-questions)
+* [Licensing](#licensing)
+* [Useful Links](#useful-links)
+
+
+## Versions
+
+[<img src="./github-assets/html.png" width="60" height="60" />](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/)
+[<img src="./github-assets/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/vue-black-dashboard-pro)
+
+| HTML | Vue |
+| --- | --- |
+| [![Black Dashboard HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Vue Black Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/99/original/opt_bd_vue_thumbnail.jpg?1539595932)](https://www.creative-tim.com/product/vue-black-dashboard-pro)
+
+## Demo
+
+- [Start page](https://demos.creative-tim.com/vue-black-dashboard-pro)
+- [User profile page](https://demos.creative-tim.com/vue-black-dashboard-pro/#/pages/user)
+- [Tables page ](https://demos.creative-tim.com/vue-black-dashboard-pro/#/table-list/extended)
+- [Maps Page](https://demos.creative-tim.com/vue-black-dashboard-pro/#/maps/google)
+- [Notifications page](https://demos.creative-tim.com/vue-black-dashboard-pro/#/components/notifications)
+
+[View More](https://demos.creative-tim.com/vue-black-dashboard-pro).
+
+
+## Quick start
 
 Quick start options:
 
-+ [Download from Creative Tim](https://www.creative-tim.com/product/vue-black-dashboard-pro).
-+ Make sure you have [Node js](https://nodejs.org/en/) installed
-+ Go to the downloaded folder and open a terminal
-+ Type `npm install` or `yarn install` if you use [yarn](https://yarnpkg.com/en/)
-+ Type `npm run dev` to start a development server
+- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-black-dashboard-pro)
 
-The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
 
-Other Products:
+## Documentation
+The documentation for the Vue Black Dashboard Pro can be found [here](https://demos.creative-tim.com/vue-black-dashboard-pro/documentation/#/).
 
-+ [Download FREE Vue Version](https://www.creative-tim.com/product/vue-black-dashboard).
 
-### What's included
+## File Structure
 
 Within the download you'll find the following directories and files:
+
 ```
 |-- vue-black-dashboard-pro
     |-- App.vue
@@ -212,17 +241,49 @@ Within the download you'll find the following directories and files:
         |-- routes.js
 ```
 
+## Browser Support
+
+At present, we officially aim to support the last two versions of the following browsers:
+
+<img src="./github-assets/chrome.png" width="64" height="64"> <img src="./github-assets/firefox.png" width="64" height="64"> <img src="./github-assets/edge.png" width="64" height="64"> <img src="./github-assets/safari.png" width="64" height="64"> <img src="./github-assets/opera.png" width="64" height="64">
+
+
+## Resources
+- [Live Preview](https://demos.creative-tim.com/vue-black-dashboard-pro)
+- Buy Page: https://www.creative-tim.com/product/vue-black-dashboard-pro
+- Documentation is [here](https://demos.creative-tim.com/vue-black-dashboard-pro/documentation)
+- License Agreement: https://www.creative-tim.com/license
+- Support: https://www.creative-tim.com/contact-us
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-black-dashboard-pro/issues)
+- Vue Black Dashboard FREE- [demo](https://www.creative-tim.com/product/vue-black-dashboard?ref=github-vue-black-dashboard-pro)
+
+## Reporting Issues
+We use GitHub Issues as the official bug tracker for the Material Dashboard Pro. Here are some advices for our users that want to report an issue:
+
+1. Make sure that you are using the latest version of the Material Dashboard Pro. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+
+## Technical Support or Questions
+
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+
+## Licensing
+
+- Copyright 2018 Creative Tim (https://www.creative-tim.com)
+- Creative Tim [license](https://www.creative-tim.com/license)
+
 ## Useful Links
 
-More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes>
+ - [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
 
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-Freebies: <https://www.creative-tim.com/products>
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
 
-Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
 
-Social Media:
+##### Social Media
 
 Twitter: <https://twitter.com/CreativeTim>
 
@@ -233,6 +294,3 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
-
-[CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
