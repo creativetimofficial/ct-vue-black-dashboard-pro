@@ -37,7 +37,7 @@ View example pages [here](https://demos.creative-tim.com/vue-black-dashboard-pro
 ## Versions
 
 [<img src="./github-assets/html.png" width="60" height="60" />](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/)
-[<img src="./github-assets/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/vue-black-dashboard-pro)
+[<img src="./github-assets/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-black-dashboard-pro)
 
 | HTML | Vue |
 | --- | --- |
