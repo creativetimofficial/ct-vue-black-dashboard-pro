@@ -19,7 +19,7 @@ Let us know what you think and what we can improve below. And good luck with dev
 
 ## Links:
 
-+ [Live Preview](http://demos.creative.tim.com/vue-now-ui-dashboard-pro)
++ [Live Preview](http://demos.creative-tim.com/vue-now-ui-dashboard-pro)
 
 ## Quick Start:
 
