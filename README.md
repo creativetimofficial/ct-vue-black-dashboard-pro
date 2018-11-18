@@ -19,13 +19,13 @@ Let us know what you think and what we can improve below. And good luck with dev
 
 ## Links:
 
-+ [Live Preview](http://demos.crea/vue-now-ui-dashboard-pro)
++ [Live Preview](http://demos.creative.tim.com/vue-now-ui-dashboard-pro)
 
 ## Quick Start:
 
 Quick start options:
 
-+ [Download from Creative Tim](https://demos.creative-tim.com/vue-black-dashboard-pro).
++ [Download from Creative Tim](https://www.creative-tim.com/product/vue-black-dashboard-pro).
 + Make sure you have [Node js](https://nodejs.org/en/) installed
 + Go to the downloaded folder and open a terminal
 + Type `npm install` or `yarn install` if you use [yarn](https://yarnpkg.com/en/)
