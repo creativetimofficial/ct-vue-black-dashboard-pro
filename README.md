@@ -8,6 +8,7 @@ Vue Black Dashboard Pro is the Vue.js ported version of the [Original Black Dash
 
 Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vue](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
 Vue Black Dashboard PRO was coded by [BinarCode](https://binarcode.com) and the design was made by [Creative Tim](https://www.creative-tim.com/).
+
 The product represents a big suite of front-end developer tools that can help you jump start your project. We have created it thinking about things you actually need in a dashboard. Vue Black Dashboard PRO contains handpicked and optimised Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on Creative Tim is a customisation of this product.
 
 We like consistency and design that blends into its purpose.
