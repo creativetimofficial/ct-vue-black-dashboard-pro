@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.4.0] 2022-12-05
+
+- Update dependencies and dev-dependencies
+- Fix the installation issue when running `npm i`
+- Migration from node-sass to sass
+
 ## [1.3.0] 2021-07-30
 ### Updates
 - All dependencies were update
