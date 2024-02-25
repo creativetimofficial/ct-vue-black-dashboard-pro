@@ -1,6 +1,6 @@
 # [Vue Black Dashboard PRO](https://demos.creative-tim.com/paper-dashboard-pro-react/#/dashboard)
 
-![version](https://img.shields.io/badge/version-1.4.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed)  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.4.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-dashboard-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](./github-assets/vue-black-dashboard-pro.gif)
 
@@ -8,11 +8,9 @@
 
 We made it our priority to not add things that you don't need, so the Vue Black Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used. Inside the archive, you will also find multiple example pages to get you started or provide inspiration.
 
-
 **[Vue Black Dashboard PRO](https://demos.creative-tim.com/vue-black-dashboard-pro)** is the extended version of [Black Dashboard PRO](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/). Based on feedback from people that downloaded and used it, we have added needed components, and we have created multiple examples pages. We are curious to see how you want to use it and also improve it, so let us know any feedback you have.
 
 **Bootstrap 4 support**
-
 
 Vue Black Dashboard PRO is built on top of [Bootstrap 4](http://getbootstrap.com/) and [Vue.js](https://vuejs.org/) Most of the elements from the dashboard are re-designed to resemble popular dark themes such as Mac OS Mojave Dark mode.
 Let us know what you think and what we can improve below. And good luck with development!
@@ -21,27 +19,26 @@ View example pages [here](https://demos.creative-tim.com/vue-black-dashboard-pro
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
 [<img src="./github-assets/html.png" width="60" height="60" />](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/)
 [<img src="./github-assets/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-black-dashboard-pro)
 
-| HTML | Vue |
-| --- | --- |
-| [![Black Dashboard HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Vue Black Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/99/original/opt_bd_vue_thumbnail.jpg?1539595932)](https://www.creative-tim.com/product/vue-black-dashboard-pro)
+| HTML                                                                                                                                                                                               | Vue                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Black Dashboard HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Vue Black Dashboard Pro](https://s3.amazonaws.com/creativetim_bucket/products/99/original/opt_bd_vue_thumbnail.jpg?1539595932)](https://www.creative-tim.com/product/vue-black-dashboard-pro) |
 
 ## Demo
 
@@ -53,17 +50,15 @@ View example pages [here](https://demos.creative-tim.com/vue-black-dashboard-pro
 
 [View More](https://demos.creative-tim.com/vue-black-dashboard-pro).
 
-
 ## Quick start
 
 Quick start options:
 
 - Buy from [Creative Tim](https://www.creative-tim.com/product/vue-black-dashboard-pro)
 
-
 ## Documentation
-The documentation for the Vue Black Dashboard Pro can be found [here](https://demos.creative-tim.com/vue-black-dashboard-pro/documentation/#/).
 
+The documentation for the Vue Black Dashboard Pro can be found [here](https://demos.creative-tim.com/vue-black-dashboard-pro/documentation/#/).
 
 ## File Structure
 
@@ -247,8 +242,8 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="./github-assets/chrome.png" width="64" height="64"> <img src="./github-assets/firefox.png" width="64" height="64"> <img src="./github-assets/edge.png" width="64" height="64"> <img src="./github-assets/safari.png" width="64" height="64"> <img src="./github-assets/opera.png" width="64" height="64">
 
-
 ## Resources
+
 - [Live Preview](https://demos.creative-tim.com/vue-black-dashboard-pro)
 - Buy Page: https://www.creative-tim.com/product/vue-black-dashboard-pro
 - Documentation is [here](https://demos.creative-tim.com/vue-black-dashboard-pro/documentation)
@@ -258,6 +253,7 @@ At present, we officially aim to support the last two versions of the following 
 - Vue Black Dashboard FREE- [demo](https://www.creative-tim.com/product/vue-black-dashboard?ref=github-vue-black-dashboard-pro)
 
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the Vue Black Dashboard Pro. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Vue Black Dashboard Pro. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
@@ -270,12 +266,12 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2022 Creative Tim (https://www.creative-tim.com)
+- Copyright 2024 Creative Tim (https://www.creative-tim.com)
 - Creative Tim [license](https://www.creative-tim.com/license)
 
 ## Useful Links
 
- - [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
+- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
